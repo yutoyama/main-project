@@ -1,0 +1,3 @@
+[submodule "sub-projetct"]
+	path = sub-projetct
+	url = https://github.com/yutoyama/sub-projetct.git
